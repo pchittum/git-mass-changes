@@ -1,0 +1,3 @@
+git@github.com:pchittum/repo-1.git
+git@github.com:pchittum/repo-2.git
+git@github.com:pchittum/repo-3.git
