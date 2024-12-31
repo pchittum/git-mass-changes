@@ -14,13 +14,10 @@ These are really git org maintenance tools. For instance, if you need to make a 
 
 ## Scripts
 
-+--+--+--+
 | File | Description | Parameter(s) |
-+--+--+--+
+|--|--|--|
 |`clone-repos.py`| Based on the list in `repourls.txt` clone a bunch of git repos.| _none_ |
 |`push-all.py`| Iterate over all directories in the `repos` directory to `add`/`commit`/`push` changes to `README.md`.| `working_branch`|
-+--+--+--+
-
 
 ## Contributions
 
